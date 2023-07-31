@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_HowTo_MoveElements - Command 1</Text>
+    <Description>Some description for RAA_HowTo_MoveElements</Description>
+    <Assembly>RAA_HowTo_MoveElements.dll</Assembly>
+    <FullClassName>RAA_HowTo_MoveElements.Command1</FullClassName>
+    <ClientId>08d1f7ed-95bc-4ef6-88d8-e05d6a7d2e3f</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
